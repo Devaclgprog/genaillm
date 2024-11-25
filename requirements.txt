@@ -1,0 +1,12 @@
+streamlit
+transformers
+newspaper3k
+validators
+pymongo
+python-dotenv
+google-generativeai
+streamlit-chat
+lxml
+lxml_html_clean
+torch
+keras==2.11.0
