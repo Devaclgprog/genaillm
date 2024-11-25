@@ -55,7 +55,7 @@ def main():
         generation_config = {
             "temperature": 0.8,
             "top_p": 0.95,
-            "top_k": 50,
+            "top_k": 40,
             "max_output_tokens": 1024,
             "response_mime_type": "text/plain",
         }
