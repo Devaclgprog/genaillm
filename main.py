@@ -85,13 +85,13 @@ if st.session_state["user"]:
         csvchat.main()
 
     elif module == "Link Summarizer":
-        import link_summ
-        link_summ.main()
+        import linksumm
+        linksumm.main()
 
     elif module == "Text Summarizer":
-        import summ_para
-        summ_para.main()
+        import parasumm
+        parasumm.main()
 
     elif module == "Code Summarizer":
-        import codechat
-        codechat.main()
+        import codesumm
+        codesumm.main()
